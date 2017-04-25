@@ -1,7 +1,8 @@
+/*
 #include <iostream>
 
 using namespace std;
-/*
+
 //1
 float convertir_millas(float milla){
     float KM;
@@ -170,10 +171,10 @@ string palindromo(string pal)
         palabra1 += pal[i];
     return palabra1;
 }
-*/
+
 int main()
 {
-/*
+
 //1.
     int milla;
     cout<<"Ingrese el numero de millas que desee convertir: "<<endl;
@@ -293,6 +294,30 @@ int main()
         cout<<"true"<<endl;
     else
         cout<<"false"<<endl;
-*/
+
     return 0;
 }
+*/
+/*
+#define TAM 3
+void producto(int matriz[TAM][TAM],int matrizb[TAM][TAM],int matrizc[TAM][TAM]){
+	for( int i = 0; i < TAM; i++){
+		for (int j = 0; j < TAM; j++){
+			matrizc[i][j] = 0;
+			for (int k = 0; k < TAM; k++){
+				matrizc[i][j] += matriz[j][k] * matrizb[k][j];
+			}
+		}
+	}
+}
+
+int main()
+        int matriza[TAM][TAM] = {{1,1,1},
+						{1,1,1},
+						{1,1,1}};
+	int matrizb[TAM][TAM] = {{1,1,1},{1,1,1},{1,1,1}};
+	int matrizc[TAM][TAM];
+	producto(matriza, matrizb, matrizc);
+	cout << "La matriz resultante es: "<< endl;
+	imprime(matrizc);
+*/
