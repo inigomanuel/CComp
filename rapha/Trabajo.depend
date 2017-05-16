@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494948415 source:c:\users\ucsp\desktop\trabajo\main.cpp
+	<iostream>
+	<Complejo.h>
+
+1494948458 c:\users\ucsp\desktop\trabajo\include\complejo.h
+
+1494947128 source:c:\users\ucsp\desktop\trabajo\src\complejo.cpp
+	"Complejo.h"
+	<iostream>
+
