@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495209979 source:c:\users\ucsp\desktop\alumnos\main.cpp
+	<iostream>
+	"Alumno.h"
+	"string.h"
+	"Kublay.h"
+
+1495208974 source:c:\users\ucsp\desktop\alumnos\src\alumno.cpp
+
+1495208974 source:c:\users\ucsp\desktop\alumnos\src\kublay.cpp
+
+1495209687 c:\users\ucsp\desktop\alumnos\include\alumno.h
+	<iostream>
+	<string.h>
+	"stdlib.h"
+
+1495210355 c:\users\ucsp\desktop\alumnos\include\kublay.h
+	"Alumno.h"
+	<iostream>
+	<string.h>
+
