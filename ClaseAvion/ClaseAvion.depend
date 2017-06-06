@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1496710162 source:c:\users\inigo\desktop\claseavion\src\avion.cpp
+	"Avion.h"
+	<iostream>
+
+1496710162 c:\users\inigo\desktop\claseavion\include\avion.h
+
+1496710162 source:c:\users\inigo\desktop\claseavion\src\boing.cpp
+	"Boing.h"
+	<iostream>
+
+1496710162 c:\users\inigo\desktop\claseavion\include\boing.h
+	<iostream>
+	"Avion.h"
+
+1496710162 source:c:\users\inigo\desktop\claseavion\src\mirage.cpp
+	"Mirage.h"
+	<iostream>
+
+1496710162 c:\users\inigo\desktop\claseavion\include\mirage.h
+	<iostream>
+	"Avion.h"
+
+1496710162 source:c:\users\inigo\desktop\claseavion\src\torre.cpp
+	"Torre.h"
+
+1496710162 c:\users\inigo\desktop\claseavion\include\torre.h
+	<vector>
+	<iostream>
+	"Avion.h"
+
