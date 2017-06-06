@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1496709466 source:c:\users\inigo\desktop\clase persona\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1496709466 c:\users\inigo\desktop\clase persona\include\birthday.h
+
+1496709466 source:c:\users\inigo\desktop\clase persona\src\conserje.cpp
+	"Conserje.h"
+
+1496709466 c:\users\inigo\desktop\clase persona\include\conserje.h
+	"Persona.h"
+
+1496709466 c:\users\inigo\desktop\clase persona\include\persona.h
+	<iostream>
+	"Birthday.h"
+
+1496709466 source:c:\users\inigo\desktop\clase persona\src\gerente.cpp
+	"Gerente.h"
+
+1496709466 c:\users\inigo\desktop\clase persona\include\gerente.h
+	"Persona.h"
+
+1496709466 source:c:\users\inigo\desktop\clase persona\src\persona.cpp
+	"Persona.h"
+	"Birthday.h"
+
+1496709631 source:c:\users\inigo\desktop\clase persona\main.cpp
+	<iostream>
+	"Persona.h"
+	"Birthday.h"
+	"Gerente.h"
+	"Conserje.h"
+
