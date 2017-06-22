@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478470554 source:d:\archivos gonzalo\discretas 3 nuevo\aleatorios generador\main.cpp
+	<iostream>
+	<string>
+	<NTL/ZZ.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

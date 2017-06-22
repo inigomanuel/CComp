@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1461965289 source:d:\discretas 3(material curso)\rsa pequeño\main.cpp
+	<iostream>
+	"RSA.h"
+
+1462035229 d:\discretas 3(material curso)\rsa pequeño\include\rsa.h
+	<NTL/ZZ.h>
+	<iostream>
+
+1462037695 source:d:\discretas 3(material curso)\rsa pequeño\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<NTL/ZZ.h>
+	<sstream>
+	<fstream>
+	<iostream>
+	<time.h>
+	<bitset>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1464111370 source:c:\users\gonzalo\desktop\rsa pequeño\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<NTL/ZZ.h>
+	<sstream>
+	<fstream>
+	<iostream>
+	<time.h>
+	<bitset>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1464047949 c:\users\gonzalo\desktop\rsa pequeño\include\rsa.h
+	<NTL/ZZ.h>
+	<windows.h>
+	<iostream>
+
+1464110264 source:c:\users\gonzalo\desktop\rsa pequeño\main.cpp
+	<iostream>
+	"RSA.h"
+
+1464317004 source:d:\discretas 3\discretas 3 (codigos)\rsa pequeño\main.cpp
+	<iostream>
+	"RSA.h"
+
+1466199755 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\rsa.h
+	<NTL/ZZ.h>
+	"libreria_RSA.h"
+	<iostream>
+
+1466199772 source:d:\discretas 3\discretas 3 (codigos)\rsa pequeño\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1464315924 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\aleatorio.h
+	"RSA.h"
+	"algoritmos.h"
+
+1464315924 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\algoritmos.h
+	"RSA.h"
+
+1464315924 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\generacion_val.h
+	"RSA.h"
+	"algoritmos.h"
+	"aleatorio.h"
+
+1464316162 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\algoritmos_1.h
+	"RSA.h"
+
+1464316828 d:\discretas 3\discretas 3 (codigos)\rsa pequeño\include\libreria_rsa.h
+
+1474323124 source:c:\users\alumno-g\desktop\rsa pequeño\main.cpp
+	<iostream>
+	"RSA.h"
+
+1466199756 c:\users\alumno-g\desktop\rsa pequeño\include\rsa.h
+	<NTL/ZZ.h>
+	"libreria_RSA.h"
+	<iostream>
+
+1464316830 c:\users\alumno-g\desktop\rsa pequeño\include\libreria_rsa.h
+
+1474321182 source:c:\users\alumno-g\desktop\rsa pequeño\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1474840002 source:c:\users\gonzalo\desktop\rsa pequeño simple\main.cpp
+	<iostream>
+	"RSA.h"
+
+1474834471 c:\users\gonzalo\desktop\rsa pequeño simple\include\rsa.h
+	<NTL/ZZ.h>
+	"libreria_RSA.h"
+	<iostream>
+
+1464316830 c:\users\gonzalo\desktop\rsa pequeño simple\include\libreria_rsa.h
+
+1474834763 source:c:\users\gonzalo\desktop\rsa pequeño simple\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1479079440 source:d:\archivos gonzalo\discretas 3 nuevo\rsa pequeño simple con resto chino\main.cpp
+	<iostream>
+	"RSA.h"
+
+1474834472 d:\archivos gonzalo\discretas 3 nuevo\rsa pequeño simple con resto chino\include\rsa.h
+	<NTL/ZZ.h>
+	"libreria_RSA.h"
+	<iostream>
+
+1464316830 d:\archivos gonzalo\discretas 3 nuevo\rsa pequeño simple con resto chino\include\libreria_rsa.h
+
+1479679548 source:d:\archivos gonzalo\discretas 3 nuevo\rsa pequeño simple con resto chino\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1479079438 source:c:\users\gonzalo\desktop\rsa pequeño simple con resto chino\main.cpp
+	<iostream>
+	"RSA.h"
+
+1474834471 c:\users\gonzalo\desktop\rsa pequeño simple con resto chino\include\rsa.h
+	<NTL/ZZ.h>
+	"libreria_RSA.h"
+	<iostream>
+
+1464316830 c:\users\gonzalo\desktop\rsa pequeño simple con resto chino\include\libreria_rsa.h
+
+1479679546 source:c:\users\gonzalo\desktop\rsa pequeño simple con resto chino\src\rsa.cpp
+	"RSA.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1477269100 source:d:\archivos gonzalo\aed proyectos\criba de eratostenes\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<NTL/ZZ.h>
+	<thread>
+	<mutex>
+
+1479101870 source:d:\archivos gonzalo\discretas 3 nuevo\criba de eratostenes\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<NTL/ZZ.h>
+	<thread>
+	<mutex>
+
