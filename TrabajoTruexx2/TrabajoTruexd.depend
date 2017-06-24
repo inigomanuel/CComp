@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1497117850 source:c:\users\inigo\desktop\trabajotruexd\main.cpp
+	<iostream>
+	<lvl.h>
+	<stdio.h>
+
+1497725424 c:\users\inigo\desktop\trabajotruexd\include\lvl.h
+	<MyWindow.h>
+	<Personaje.h>
+	<time.h>
+	<sstream>
+
+1497119081 c:\users\inigo\desktop\trabajotruexd\include\mywindow.h
+	<Screen.h>
+	<iostream>
+	<Position.h>
+	<MySize.h>
+
+1497119136 c:\users\inigo\desktop\trabajotruexd\include\screen.h
+	<windows.h>
+	<conio.h>
+	<Position.h>
+
+1497119081 c:\users\inigo\desktop\trabajotruexd\include\position.h
+
+1497119081 c:\users\inigo\desktop\trabajotruexd\include\mysize.h
+
+1497118576 c:\users\inigo\desktop\trabajotruexd\include\personaje.h
+	<Screen.h>
+	<Position.h>
+	<iostream>
+
+1497725688 source:c:\users\inigo\desktop\trabajotruexd\src\lvl.cpp
+	"lvl.h"
+	<Personaje.h>
+
+1497119081 source:c:\users\inigo\desktop\trabajotruexd\src\mysize.cpp
+	"MySize.h"
+
+1497720978 source:c:\users\inigo\desktop\trabajotruexd\src\mywindow.cpp
+	"MyWindow.h"
+	<Screen.h>
+
+1497119081 source:c:\users\inigo\desktop\trabajotruexd\src\personaje.cpp
+	"Personaje.h"
+	<Screen.h>
+	<Position.h>
+
+1497119081 source:c:\users\inigo\desktop\trabajotruexd\src\position.cpp
+	"Position.h"
+
+1497119136 source:c:\users\inigo\desktop\trabajotruexd\src\screen.cpp
+	"Screen.h"
+	<iostream>
+
+1497721717 source:c:\users\inigo\desktop\trabajotruexd\src\dialogo.cpp
+
+1497117850 source:c:\users\inigo\desktop\trabajotruexx2\main.cpp
+	<iostream>
+	<lvl.h>
+	<stdio.h>
+
+1498328864 c:\users\inigo\desktop\trabajotruexx2\include\lvl.h
+	<MyWindow.h>
+	<Personaje.h>
+	<time.h>
+	<sstream>
+
+1497119081 c:\users\inigo\desktop\trabajotruexx2\include\mywindow.h
+	<Screen.h>
+	<iostream>
+	<Position.h>
+	<MySize.h>
+
+1498329168 c:\users\inigo\desktop\trabajotruexx2\include\screen.h
+	<windows.h>
+	<conio.h>
+	<Position.h>
+
+1497119081 c:\users\inigo\desktop\trabajotruexx2\include\position.h
+
+1497119081 c:\users\inigo\desktop\trabajotruexx2\include\mysize.h
+
+1498330356 c:\users\inigo\desktop\trabajotruexx2\include\personaje.h
+	<Screen.h>
+	<Position.h>
+	<iostream>
+
+1497721717 source:c:\users\inigo\desktop\trabajotruexx2\src\dialogo.cpp
+
+1498330304 source:c:\users\inigo\desktop\trabajotruexx2\src\lvl.cpp
+	"lvl.h"
+	<Personaje.h>
+	<Position.h>
+
+1497119081 source:c:\users\inigo\desktop\trabajotruexx2\src\mysize.cpp
+	"MySize.h"
+
+1497720978 source:c:\users\inigo\desktop\trabajotruexx2\src\mywindow.cpp
+	"MyWindow.h"
+	<Screen.h>
+
+1498330486 source:c:\users\inigo\desktop\trabajotruexx2\src\personaje.cpp
+	"Personaje.h"
+	<Screen.h>
+	<Position.h>
+
+1497119081 source:c:\users\inigo\desktop\trabajotruexx2\src\position.cpp
+	"Position.h"
+
+1497119136 source:c:\users\inigo\desktop\trabajotruexx2\src\screen.cpp
+	"Screen.h"
+	<iostream>
+
