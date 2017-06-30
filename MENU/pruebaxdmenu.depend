@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1497626199 source:c:\users\inigo\desktop\pruebaxdmenu\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
+1498762246 source:c:\users\inigo\desktop\llk\pruebaxdmenu\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<Creditos.h>
+	<Menu.h>
+	<Instrucciones.h>
+
+1498762246 c:\users\inigo\desktop\llk\pruebaxdmenu\include\creditos.h
+
+1498762246 c:\users\inigo\desktop\llk\pruebaxdmenu\include\menu.h
+
+1498762246 c:\users\inigo\desktop\llk\pruebaxdmenu\include\instrucciones.h
+
+1498762296 source:c:\users\inigo\desktop\llk\pruebaxdmenu\src\creditos.cpp
+	"Creditos.h"
+	<Menu.h>
+	<iostream>
+
+1498762303 source:c:\users\inigo\desktop\llk\pruebaxdmenu\src\instrucciones.cpp
+	"Instrucciones.h"
+	<Menu.h>
+	<iostream>
+
+1498762296 source:c:\users\inigo\desktop\llk\pruebaxdmenu\src\menu.cpp
+	"Menu.h"
+	<Instrucciones.h>
+	<Creditos.h>
+	<iostream>
+
+1498762908 source:c:\users\inigo\desktop\llk\pruebaxdmenu\src\historia.cpp
+	"Historia.h"
+	<Menu.h>
+	<iostream>
+
+1498762908 c:\users\inigo\desktop\llk\pruebaxdmenu\include\historia.h
+
+1498762246 source:c:\users\inigo\desktop\llk\menu\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<Creditos.h>
+	<Menu.h>
+	<Instrucciones.h>
+
+1498762246 c:\users\inigo\desktop\llk\menu\include\creditos.h
+
+1498762246 c:\users\inigo\desktop\llk\menu\include\menu.h
+
+1498762246 c:\users\inigo\desktop\llk\menu\include\instrucciones.h
+
+1498763562 source:c:\users\inigo\desktop\llk\menu\src\creditos.cpp
+	"Creditos.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498763562 source:c:\users\inigo\desktop\llk\menu\src\menu.cpp
+	"Menu.h"
+	<Instrucciones.h>
+	<Creditos.h>
+	<Historia.h>
+	<windows.h>
+	<iostream>
+
+1498762908 c:\users\inigo\desktop\llk\menu\include\historia.h
+
+1498763593 source:c:\users\inigo\desktop\llk\menu\src\historia.cpp
+	"Historia.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498763593 source:c:\users\inigo\desktop\llk\menu\src\instrucciones.cpp
+	"Instrucciones.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498762246 source:c:\users\inigo\desktop\menu\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<Creditos.h>
+	<Menu.h>
+	<Instrucciones.h>
+
+1498762246 c:\users\inigo\desktop\menu\include\creditos.h
+
+1498762246 c:\users\inigo\desktop\menu\include\menu.h
+
+1498762246 c:\users\inigo\desktop\menu\include\instrucciones.h
+
+1498791941 source:c:\users\inigo\desktop\menu\src\creditos.cpp
+	"Creditos.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498791879 source:c:\users\inigo\desktop\menu\src\historia.cpp
+	"Historia.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498762908 c:\users\inigo\desktop\menu\include\historia.h
+
+1498791879 source:c:\users\inigo\desktop\menu\src\instrucciones.cpp
+	"Instrucciones.h"
+	<Menu.h>
+	<iostream>
+	<windows.h>
+
+1498763562 source:c:\users\inigo\desktop\menu\src\menu.cpp
+	"Menu.h"
+	<Instrucciones.h>
+	<Creditos.h>
+	<Historia.h>
+	<windows.h>
+	<iostream>
+
