@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1479693902 source:d:\archivos gonzalo\discretas 3 nuevo\gamal1\main.cpp
+	<iostream>
+	"CGamal.h"
+
+1479694254 d:\archivos gonzalo\discretas 3 nuevo\gamal1\include\cgamal.h
+	<iostream>
+	"CGamal.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<NTL/ZZ.h>
+
+1480307824 source:d:\archivos gonzalo\discretas 3 nuevo\gamal1\src\cgamal.cpp
+	"CGamal.h"
+	<string>
+	<iostream>
+	<windows.h>
+	<sstream>
+	<fstream>
+	<time.h>
+	<bitset>
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<NTL/ZZ.h>
+
